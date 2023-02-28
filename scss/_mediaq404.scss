@@ -1,0 +1,93 @@
+/* MEDIAS QUERIES 1 */
+@media (max-width: 1587px) {
+    .card404 {
+        width: 80%;
+        height: 65%;
+    }
+}
+/* MEDIAS QUERIES 2 */
+@media (max-width: 1147px) {
+    .card404 {
+        width: 80%;
+        height: 75%;
+    }
+    .mensaje404 {
+        width: 100%;
+        height: 520px;
+      }
+}
+/* MEDIAS QUERIES 2 */
+@media (max-width: 916px) {
+    .card404 p {
+        text-align: center;
+        color: rgb(255, 255, 255);
+        margin: 30px 10px 30px 10px;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 1.1rem;
+        font-weight: 400; 
+      }
+}
+
+
+
+/* MEDIAS QUERIES 3 */
+@media (max-width: 900px) {
+
+    .contenedorCont {
+      display: flex;
+      flex-direction: column;
+      margin: auto; }
+    .Contacto1 {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: center; }
+    .Contacto1, .Contacto2, .Contacto3 {
+      margin: 25px auto; }
+    .contenedorCont .Contacto2 {
+      margin-bottom: 25px; }
+    .contenedorCont .Contacto3 {
+      margin-bottom: 25px; } 
+    }
+  
+    /* MEDIAS QUERIES 4 */
+@media (max-width: 724px) {
+    .card404 {
+        width: 80%;
+        height: 75%;
+    }
+}
+    /* MEDIAS QUERIES 5 */
+    @media (max-width: 647px) {
+        .contenedor404 {
+            width: 100%;
+            height: 800px;
+        .card404 {
+            height: 80%;
+          }
+        }
+    }
+    /* MEDIAS QUERIES 3 */
+        @media (max-width: 597px) {
+            .card404 h1 {
+                margin: auto;
+                color: rgb(255, 255, 255);
+                margin-top: 10px;
+                font-size: 2rem;
+                font-weight: 800; 
+             }
+      }
+          /* MEDIAS QUERIES 3 */
+          @media (max-width: 578px) {
+            .mensaje404 {
+                width: 100%;
+                height: 600px;
+              }
+            .contenedor404 {
+                width: 100%;
+                height: 800px;
+            .card404 {
+                height: 95%;
+              }
+            }
+      }
